@@ -31,3 +31,5 @@ https://github.com/user-attachments/assets/f5988eb8-e131-4d13-a573-10d6c5ffac3b
 
 ## IDE
 <img width="2866" height="1709" alt="스크린샷 2026-05-10 204415" src="https://github.com/user-attachments/assets/979b8140-b315-4b2d-9429-f844e363e9c6" />
+
+- Use SSH, VNC
